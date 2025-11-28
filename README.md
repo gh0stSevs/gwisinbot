@@ -39,7 +39,3 @@
 - 20% success rate
 - **Success**: Robber gains N gold, victim loses N gold
 - **Failure**: Robber loses N/2 gold, victim gains N/2 gold
-
-### !daily
-- Can only be claimed once per stream
-- Random reward between 1-50 gold
