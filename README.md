@@ -1,17 +1,3 @@
-# gwisinbot
-
-A Twitch chatbot with a gold reward system.
-
-## Features
-
-- **Gold Reward System**: Users earn gold through various activities
-- **Engagement Tracking**: Rewards for messaging, watching, and streaming participation
-- **Clip Detection**: Automatically detects and rewards new clips
-- **Interactive Commands**: Gambling, dueling, daily rewards, and more
-- **Monthly Activity Tracking**: Rewards loyal viewers
-- **Configurable**: Easy-to-edit configuration files
-- **Ban List**: Filters out bots and unwanted users
-
 ## Gold Earning Methods
 
 - **First Message of Stream**: 5 gold + increments monthly activity counter
