@@ -1,8 +1,7 @@
 ## Gold Earning Methods
 
-- **First Message of Stream**: 5 gold
-- **Active Messaging**: 2 gold every 5 minutes
-- **Watching Stream**: 1 gold every 5 minutes
+- **First Message of Stream**: 6 gold (9 for subs)
+- **Active Messaging**: 2 gold every 2 minutes (3 for subs)
 - **Clip Submission**: 20 gold per clip (max 2 per stream)
 - **Monthly Activity**: 50 gold bonus after being active in 3+ streams
 
