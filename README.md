@@ -17,7 +17,7 @@
 | `!leaderboard` | View top 3 users by gold | `!leaderboard` |
 | `!rank` | Check your rank on the leaderboard | `!rank` |
 | `!give {user} {N}` | Give N gold to another user | `!give @username 15` |
-| `!rob {user} {N}` | Attempt to rob N gold (20% success rate) | `!rob @username 25` |
+| `!rob {user} {N}` | Attempt to rob N gold (25% success rate) | `!rob @username 25` |
 | `!bonus {user} {N}` | **(Streamer only)** Give bonus gold to a user | `!bonus @username 100` |
 
 ## Command Details
