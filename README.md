@@ -13,7 +13,7 @@
 | `!gamble {N}` | 50% chance to win or lose N gold | `!gamble 10` |
 | `!duel {user} {N}` | Challenge another user to a duel for N gold | `!duel @username 20` |
 | `!accept` | Accept a pending duel challenge | `!accept` |
-| `!daily` | Claim daily reward (1-50 gold, once per stream) | `!daily` |
+| `!daily` | Claim daily reward (once per stream) | `!daily` |
 | `!leaderboard` | View top 3 users by gold | `!leaderboard` |
 | `!rank` | Check your rank on the leaderboard | `!rank` |
 | `!give {user} {N}` | Give N gold to another user | `!give @username 15` |
@@ -35,6 +35,6 @@
 
 ### !rob
 - Victim must have N gold
-- 20% success rate
+- 25% success rate
 - **Success**: Robber gains N gold, victim loses N gold
-- **Failure**: Robber loses N/2 gold, victim gains N/2 gold
+- **Failure**: Robber loses N*40% gold
