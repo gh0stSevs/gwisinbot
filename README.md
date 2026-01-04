@@ -18,7 +18,9 @@
 | `!rank` | Check your rank on the leaderboard | `!rank` |
 | `!give {user} {N}` | Give N*85% gold to another user (15% tax) | `!give @username 15` |
 | `!rob {user} {N}` | Attempt to rob N gold (25% success rate) | `!rob @username 25` |
+| `!bet {option} {N}` | Bet on an option in the prediction | `!bet A 100` |
 | `!bonus {user} {N}` | **(Streamer only)** Give bonus gold to a user | `!bonus @username 100` |
+
 
 ## Command Details
 
